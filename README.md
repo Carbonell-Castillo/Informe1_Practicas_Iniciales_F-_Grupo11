@@ -1,6 +1,7 @@
 # Informe1_Practicas_Iniciales_F-_Grupo11
 
 Integrantes:
+
 202203069 Bruce Carbonell Castillo Cifuentes
 
 202207639 Diego Josue Guevara Abaj
